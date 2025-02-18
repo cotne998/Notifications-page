@@ -1,4 +1,4 @@
-import "./index.css";
+import "./notifications.css";
 
 export default function Notifications({ notifications, setNotifications }) {
   const markAsRead = (id) => {
